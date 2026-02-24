@@ -1,14 +1,10 @@
 
-# flutter_application_1
-
-A new Flutter project.
 =======
 # 🛒 Tugas PAB - Eksperimen Part 5  
 ## EKSPERIMEN 5: Test Cart Operations  
 
 **Nama  : Tsabitah Kawiswara**  
 **NIM   : 2409116099**
-
 **Kelas : Sistem Informasi C**
 
 ---
@@ -216,4 +212,4 @@ Seluruh pengujian pada fitur cart berhasil dijalankan dengan baik, meliputi:
 - Konsistensi data saat navigasi  
 
 Dengan demikian, fitur **Cart Operations** telah berjalan sesuai dengan skenario pengujian yang ditentukan.
-aa8e54430d893ef64071788d275c408ea8b58ad1
+
